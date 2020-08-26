@@ -6,4 +6,4 @@ c programs and questions for my students
 
 - Day1 intro to programming & C
 - Day2 printf,data types,scope,format specifiers etc
-- Day3 
+- Day3 scanf,memory addressing etc
