@@ -1,5 +1,6 @@
 # C-Programming-Resources
 c programs and questions for my students
+we are going slow because they are not from math backgrou
 
 - Daily programms and excercises for my c programming classes
 - Book for refrance - "Let us C"
@@ -10,3 +11,4 @@ c programs and questions for my students
 - Day4 assignments...
 - Day5 more assignments...
 - Day6 some live practice
+- Day7 modulo operator & some practice
