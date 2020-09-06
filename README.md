@@ -12,3 +12,4 @@ we are going slow because they are not from math backgrou
 - Day5 more assignments...
 - Day6 some live practice
 - Day7 modulo operator & some practice
+- Day8 assignment day
