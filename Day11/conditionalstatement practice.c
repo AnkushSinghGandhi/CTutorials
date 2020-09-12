@@ -1,19 +1,32 @@
 #include<stdio.h>
 int main()
 {
-    int num;
+    int ram, shyam, ajay;
+    printf("Enter the age of Ram: ");
+    scanf("%d", &ram);
+    printf("Enter the age of Shyam: ");
+    scanf("%d", &shyam);
 
-    printf("Enter any integer: ");
-    scanf("%d", &num);
+    printf("Enter the age of Ajay: ");
+    scanf("%d", &ajay);
 
-    if(num%2==0)
+    if (ram<=shyam)
     {
-       printf("%d is  Even Number", num);
+        if(ram<=ajay)
+        {
+            printf("Ram is the Youngest");
+        }
+        else
+        {
+            printf("Ajay is the Youngest");
+        }
+    }
+    else if(shyam<=ajay)
+    {
+        printf("Shyam is the Youngest");
     }
     else
     {
-
-       printf("%d is Odd Number", num);
+        printf("Ajay is the Youngest");
     }
-
 }
