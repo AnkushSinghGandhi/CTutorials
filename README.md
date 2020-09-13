@@ -15,3 +15,4 @@ we are going slow because they are not from math backgrou
 - Day8 assignment day
 - Day9 conditional statements, nested if-else, practice
 - Day10 doubt session, logical operators, binary, complex conditional statements
+- Day11 git,assignments
