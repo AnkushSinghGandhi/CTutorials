@@ -17,3 +17,6 @@ we are going slow because they are not from math backgrou
 - Day10 doubt session, logical operators, binary, complex conditional statements
 - Day11 git,assignments
 - Day12 conditional Operators and while loop practice
+- Day13,14 for loop, do while loops
+- Day15,16 patterns
+- Day17 case controll 
