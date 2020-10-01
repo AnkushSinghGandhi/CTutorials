@@ -3,8 +3,7 @@
 
 
 int main(){
-    float L, B, R, Area_Rect, Peri_Rect, Area_Circ, Circum_Circ;
-    int Pi = 3.5 ;
+    float L, B, R, Area_Rect, Peri_Rect, Area_Circ, Circum_Circ, Pi = 3.5;
 
     printf("\nEnter Length of Rectangle: ");
     scanf("%f",&L);
