@@ -2,7 +2,7 @@
 #include<stdio.h>
 /* #(preprocessor) before compiling the program includes stdio.h file in our source code*/
 void main(){
-    /* main is a function with a void return type */
+    /* main is a function with a void return type and void doesn't return something*/
     /* { } denotes the scope of function */
     int a;
     /* declaring a */
@@ -20,7 +20,7 @@ void main(){
 
 
     printf("Hello World\n");
-    /* printf() is a predefined(pehle ka define kia hua) function*/
+    /* printf() is a predefined(pehle ka define kia hua) function,it is present in stdio.h library*/
     /* "everything we write in "" would be printed as it is"
     /* \n is new line character */
     printf("fd = %d which is also equal to df = %d\n",fd,df);
